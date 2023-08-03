@@ -1,0 +1,30 @@
+body{
+    margin:0px;
+}
+.input{
+    text-align: center;
+    background-image: url("https://i.stack.imgur.com/vhoa0.jpg");
+    
+    padding:4% 0%;
+}
+.sel{
+    font-size: 20px; font-weight: bold;
+}
+input{
+    margin:8px;
+}
+#num{
+    border-radius: 5px;
+    border:0px;
+    padding:5px;
+}
+button{
+    border-radius:5px;
+    border:0px;
+    padding:8px; background-color: black; color: white;
+}
+button:hover{ background-color:dodgerblue; }
+
+#output div{ width:100px; height:100px; float:left; color:white; text-align: center; justify-content: center;}
+
+
